@@ -1,12 +1,12 @@
 # HyperThink AI Framework ✨
 It activates a true **DEEP THINKING MODE**, helping your AI generate expert-level, insightful answers that go way beyond the usual.
 
-Just give your AI the `HyperThink_FRAMEWORK.md` file (attach it or copy-paste the content). It's like saying:
+Just give your AI the [`HyperThink_FRAMEWORK_v1.0.md`](HyperThink_FRAMEWORK_v1.0.md) file (attach it or copy-paste the content). It's like saying:
 *"Hey AI, listen up Before you answer, I need you to put on your expert thinking cap. No more surface-level or just-okay answers. Dig deep, follow these steps, and give me something truly thoughtful, accurate, and top-quality. Got it?"*
 
 ## 🤔 So, What Exactly IS This?
 
-It's a carefully crafted set of instructions and keywords designed to tap into your AI's more advanced capabilities. It works with many popular AIs (like ChatGPT, Claude, Gemini, Grok, Copilot, Perplexity, and others). Think of it as a "mental workout plan" or, as we like to call it, **DEEP THINKING MODE** for your AI.
+It's a carefully written set of instructions and keywords designed to tap into your AI's more advanced capabilities. It works with many popular AIs (like ChatGPT, Claude, Gemini, Grok, Copilot, Perplexity, and others). Think of it as a "mental workout plan" or, as we like to call it, **DEEP THINKING MODE** for your AI.
 
 When you use HyperThink, you're encouraging the AI to fire up its deeper cognitive functions, including:
 
@@ -57,7 +57,7 @@ You can find the full, ready-to-use framework in this file:
 This project is licensed under the **MIT License**. You can see the full details in the `LICENSE` file.
 Basically, it means you're free to use it, share it, and even tweak it, as long as you give a nod back to the original source (this repository).
 
-## 🙌 Got Feedback or Ideas? L
+## 🙌 Got Feedback or Ideas?
 Think you can make it even better? 
 Please, feel free to open an "Issue" right here in this repository. Share your thoughts, suggestions, or your ideas!
 
