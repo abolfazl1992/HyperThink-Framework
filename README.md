@@ -51,7 +51,7 @@ You've got a few simple ways to get HyperThink working:
 You can find the full, ready-to-use framework in this file:
 [`HyperThink_FRAMEWORK_v1.0.md`](HyperThink_FRAMEWORK_v1.0.md)
 
-*(This is the one you want! It includes the "my" phrasing to make it feel like your direct instruction to the AI, making it even more personal and effective.)*
+*It includes the "my" phrasing to make it feel like your direct instruction to the AI, making it even more personal and effective.)*
 
 ## 📄 License Stuff (The Legal Bit)
 This project is licensed under the **MIT License**. You can see the full details in the `LICENSE` file.
@@ -59,6 +59,6 @@ Basically, it means you're free to use it, share it, and even tweak it, as long 
 
 ## 🙌 Got Feedback or Ideas?
 Think you can make it even better? 
-Please, feel free to open an "Issue" right here in this repository. Share your thoughts, suggestions, or your ideas!
+Please, feel free to open an "Issue" right here in this repository. Share your thoughts, suggestions, or your ideas
 
-Happy (Smarter) Prompting
+Happy (Smarter) Prompting 
