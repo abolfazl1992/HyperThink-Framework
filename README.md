@@ -44,12 +44,12 @@ You've got a few simple ways to get HyperThink working:
     *   Some AIs (like ChatGPT with its "Custom Instructions" feature, or if you're using an API) let you set up general instructions that apply to all your chats.
     *   You can paste the entire HyperThink framework into these settings. That way, it's always active, and you don't have to add it every single time.
 
-**Once you provide the framework, the AI will automatically get it and start thinking harder!**
+**Once you provide the framework, the AI will automatically get it and start thinking harder**
 
 ## 📜 Where's The Magic Text?
 
 You can find the full, ready-to-use framework in this file:
-[`HyperThink_FRAMEWORK_V1.0.md`](HyperThink_FRAMEWORK_V1.0.md)
+[`HyperThink_FRAMEWORK_v1.0.md`](HyperThink_FRAMEWORK_v1.0.md)
 
 *(This is the one you want! It includes the "my" phrasing to make it feel like your direct instruction to the AI, making it even more personal and effective.)*
 
